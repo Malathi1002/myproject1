@@ -1,3 +1,4 @@
 # myproject1
-Kanban Board
+Kanban Board - drag and drop functionality
+
 
